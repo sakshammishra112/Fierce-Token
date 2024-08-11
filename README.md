@@ -6,9 +6,9 @@ This Solidity Smart Contract, FierceToken, is a blockchain-based application des
 
 The FierceToken Solidity Smart Contract is the foundation of a decentralized application (dApp) that allows users to interact with the Ethereum blockchain. The contract includes the following key functionalities:
 
-- Mint Tokens: The contract owner can mint new tokens by multiplying the input amount with a constant multiplier.
-- Burn Tokens: Users can burn their tokens, reducing the total supply.
-- Transfer Tokens: Users can transfer tokens to other Ethereum addresses.
+- **Mint Tokens**: The contract owner can mint new tokens by multiplying the input amount with a constant multiplier.
+- **Burn Tokens**: Users can burn their tokens, reducing the total supply.
+- **Transfer Tokens**: Users can transfer tokens to other Ethereum addresses.
 - The contract utilizes Solidity's features such as events, error handling with require and revert statements, and access control through owner verification. These features ensure the contract's reliability, security, and user-friendliness.
   
 ## Getting Started
